@@ -1,0 +1,7 @@
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\bin\Debug\ChallengeTwo.Console.exe.config
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\bin\Debug\ChallengeTwo.Console.exe
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\bin\Debug\ChallengeTwo.Console.pdb
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\obj\Debug\ChallengeTwo.Console.csprojAssemblyReference.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\obj\Debug\ChallengeTwo.Console.csproj.CoreCompileInputs.cache
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\obj\Debug\ChallengeTwo.Console.exe
+C:\Users\galva\Desktop\ElevenFiftyProjects\DotNetProjects\GoldBadge_ConsoleApplicationChallenges\ChallengeTwo.Console\obj\Debug\ChallengeTwo.Console.pdb

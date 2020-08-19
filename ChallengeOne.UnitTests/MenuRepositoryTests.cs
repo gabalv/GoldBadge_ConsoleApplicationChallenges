@@ -110,7 +110,7 @@ namespace ChallengeOne.UnitTests
         [DataTestMethod]
         [DataRow("cheese", 3, 1)]
         [DataRow("eggs", 1, 4)]
-        public void DeleteItemsByIngredient(string ingredient, int numOne, int numTwo)
+        public void DeleteItemsByIngredient_ShouldReturnCorrectBool(string ingredient, int numOne, int numTwo)
         {
             _repo.DeleteItemsByIngredient(ingredient);
             List<MenuItem> itemsWithoutIngredient = _repo.GetAllItems();
